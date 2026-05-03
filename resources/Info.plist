@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>StableVNC</string>
+    <key>CFBundleDisplayName</key>
+    <string>StableVNC</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.stablevnc.server</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleExecutable</key>
+    <string>StableVNC</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>12.0</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>LSUIElement</key>
+    <false/>
+    <key>NSScreenCaptureUsageDescription</key>
+    <string>StableVNC needs screen recording access to share your screen over VNC.</string>
+    <key>NSAccessibilityUsageDescription</key>
+    <string>StableVNC needs accessibility access to inject keyboard and mouse events from remote VNC clients.</string>
+</dict>
+</plist>
